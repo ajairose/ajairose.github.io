@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500|Poppins:300,900&display=swap');
+
+
+body {
+  background-color: #d12c2c;
+  color: white;
+  font-family: "Poppins";
+  border-style: solid;
+  border-width: thick;
+  margin: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1  {
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  height: 35px;
+}
